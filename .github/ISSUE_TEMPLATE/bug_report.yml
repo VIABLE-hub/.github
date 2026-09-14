@@ -1,0 +1,29 @@
+name: Bug report
+description: Report a reproducible, non-sensitive defect.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: "For vulnerabilities use SECURITY.md. Do not include secrets or personal credential data."
+  - type: input
+    id: version
+    attributes:
+      label: Version or commit and environment
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Minimal reproduction with synthetic data
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact and sanitized diagnostics
