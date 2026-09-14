@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-white.png">
+  <img src="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-navy.png" alt="VIABLE" width="260">
+</picture>
+
 # VIABLE
 
 Easy offline verification for enterprises. Secure and privacy preserving.
