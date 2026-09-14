@@ -1,42 +1,41 @@
 {
-  "name": "VIABLE",
-  "abbreviation": "VBL",
-  "approved_direction": "01 / Soft",
-  "approved_by": "Patrick Herbke",
-  "approved_date": "2026-09-14",
+  "name": "VIABLE Motion and V Kit",
+  "version": "2026-09-14",
   "color": "#003153",
-  "lettering": "Custom rounded outlines based on Avenir Next Bold",
-  "primary": "viable-soft-wordmark.svg",
-  "wordmark": "viable-soft-wordmark.svg",
-  "symbol": "viable-soft-symbol.svg",
-  "source": "01-soft approved SVG paths, unmodified; viewBox adapted for each use",
+  "duration_seconds": 10,
+  "variants": [
+    {
+      "id": "01-signature",
+      "name": "Signature",
+      "direction": "VIABLE \u2192 VBL \u2192 VIABLE",
+      "description": "The current website signature: letters settle into VBL, then return."
+    },
+    {
+      "id": "02-soft-crossfade",
+      "name": "Soft dissolve",
+      "direction": "VIABLE \u2192 VBL \u2192 VIABLE",
+      "description": "The full wordmark fades out before the short form settles into place."
+    },
+    {
+      "id": "03-reveal",
+      "name": "Reveal",
+      "direction": "VIABLE \u2192 VBL \u2192 VIABLE",
+      "description": "A horizontal wipe reveals the short form and returns to VIABLE."
+    },
+    {
+      "id": "04-stagger",
+      "name": "Stagger",
+      "direction": "VIABLE \u2192 VBL \u2192 VIABLE",
+      "description": "I, A and E lift away in sequence while V, B and L come together."
+    },
+    {
+      "id": "05-v-bridge",
+      "name": "V bridge",
+      "direction": "VIABLE \u2192 VBL \u2192 VIABLE",
+      "description": "VIABLE becomes V, then VBL, then V, and returns to VIABLE."
+    }
+  ],
   "files": {
-    "viable-social-en-soft2.svg": "538950dd7a2ab46463f7f43660c3e1d6fd82c58ffaa15177491c18a1fa297308",
-    "viable-soft-logo.svg": "7b82eb6995554fb31f08fefa2cd2ad010c4612f718cf1d8876a400616d51033d",
-    "viable-social-en-soft1.svg": "538950dd7a2ab46463f7f43660c3e1d6fd82c58ffaa15177491c18a1fa297308",
-    "favicon.ico": "52b18c939b0bbadd6633f7d9d2cacd23374a503455a960ef9a5e4e2852a01488",
-    "viable-soft-wordmark.svg": "7b82eb6995554fb31f08fefa2cd2ad010c4612f718cf1d8876a400616d51033d",
-    "viable-soft-logo-white.png": "118bd3216511519d4b0ff56cd71eae0612d0f1dc60e96e94bdb2df23da2ade0f",
-    "viable-soft-logo-white.svg": "36ac86e6d1383809f64267a361b44e3cd2343f4758a858136630493d8322ce42",
-    "viable-soft-wordmark.png": "6988415c75fddc803aa08f5f3fc987ee1dcbe33e829e4c9968b27d3c79924727",
-    "viable-soft-apple-touch-icon.png": "a8ac79e92747037b47e4a1aea20d18ca3c85025b3f630f65b9c79995ca86ce29",
-    "viable-social-en-soft1.png": "6b4bb51389f5ba6e5525c7fde235543936c9cc512362bdb2fa43e3d00c096eca",
-    "viable-soft-logo.png": "6988415c75fddc803aa08f5f3fc987ee1dcbe33e829e4c9968b27d3c79924727",
-    "viable-social-en-soft2.png": "6b4bb51389f5ba6e5525c7fde235543936c9cc512362bdb2fa43e3d00c096eca",
-    "README.md": "24c247f3d578c61a028713b5af526976e4fcdda1aa45f45a6b6ed20ff1a855a9",
-    "viable-soft-wordmark-white.png": "118bd3216511519d4b0ff56cd71eae0612d0f1dc60e96e94bdb2df23da2ade0f",
-    "viable-social-de-soft1.svg": "5181142aa12dba0db118c8f38e974e111e8286681d0482b0d0ddc6279a129447",
-    "viable-soft-favicon.png": "778890c9a6bac2b7a5d786d715b52a8ff5ff3127f84b9907cde45bd9db87f2a0",
-    "viable-soft-app-icon.png": "095946054bcd2e34ac9b9112c22eafcab998d87e99ea019d22a2d7c80fb0497a",
-    "viable-soft-avatar.png": "d4db321496f404ab7362493523ebdb55d5342c85f5e20d500a1ba73ce2164198",
-    "viable-social-de-soft2.svg": "5181142aa12dba0db118c8f38e974e111e8286681d0482b0d0ddc6279a129447",
-    "viable-soft-symbol.svg": "218fa98da92fc2446272afe2f41dbea3e300fd1093473a13fee9e835603bc07a",
-    "viable-soft-symbol-white.svg": "1c4b47e928fdc82b8f994840e115f1823fd7b82f82fb4597acc72bd9751d2f00",
-    "viable-soft-symbol-white.png": "aacd559b1ff8098784fed08a72aec5ee0cbea0d833df032c3ee559398e71fa25",
-    "viable-soft-symbol.png": "b705f83e4f56729d9477d5212fab4468832ff8b0925911497735d7cf190e3116",
-    "viable-social-de-soft2.png": "016115e24f4f6623f73ba7cde1fa2473114986e6b0a87de4a182a7ef45948f0c",
-    "viable-social-de-soft1.png": "016115e24f4f6623f73ba7cde1fa2473114986e6b0a87de4a182a7ef45948f0c",
-    "viable-soft-wordmark-white.svg": "36ac86e6d1383809f64267a361b44e3cd2343f4758a858136630493d8322ce42",
     "motion/01-signature.gif": "5e95f8e81b610d7d5b7ff3ea709a70fc1783953259a85a5eb35c55bb292e1488",
     "motion/04-stagger-poster.png": "770debc60e1f7b31599c1b244193bdf0f8b01da43092d2b79ab6ab50a9865a0b",
     "motion/02-soft-crossfade.mp4": "c673018e0674acfe77991aec28fc83f4cd95f22d424c48c34802a82bae5e4c4a",
@@ -56,7 +55,6 @@
     "motion/01-signature-white.svg": "d4595d37f384c7f4eca4b0dc6ba7f93e2a565b8960278feecf77c423ec451618",
     "motion/03-reveal.mp4": "d31ae78f5f43929ef067bdb01e60d363435103b81e2365c6bd9e87ea6e60b001",
     "motion/03-reveal-white.svg": "680df601af8aa91c2824942b389d8b8f05b3d83937f95114c1f98e265ecbb7e8",
-    "motion/manifest.json": "88439324ca4f53d73fa128328ef49bbf81d79e810e41e13ae4dd9db15d27530a",
     "motion/01-signature-poster.png": "770debc60e1f7b31599c1b244193bdf0f8b01da43092d2b79ab6ab50a9865a0b",
     "motion/04-stagger-white.svg": "9755a418759a983fd3fb83bb9438eee94cfd785817c3214298d8de4379bf17eb",
     "motion/02-soft-crossfade.svg": "b73d24396d034e1acefd55890d39767a8226ade66f7eb51dedadd9147e3084ca",
@@ -78,20 +76,5 @@
     "icons/VIABLE-V-white.svg": "1c4b47e928fdc82b8f994840e115f1823fd7b82f82fb4597acc72bd9751d2f00",
     "icons/VIABLE.png": "130b8ed3618094ab699c5e81c359a63f34e04b30eb1113621ceb172c963510d1",
     "icons/VIABLE-V.png": "b705f83e4f56729d9477d5212fab4468832ff8b0925911497735d7cf190e3116"
-  },
-  "layout": "VIABLE wordmark only; V is a separate icon, never part of a combined logo",
-  "usage": {
-    "corporate_logo": "viable-soft-wordmark.svg",
-    "compact_icon": "viable-soft-symbol.svg",
-    "icon_contexts": [
-      "favicon",
-      "app icon",
-      "avatar",
-      "limited-space placement"
-    ],
-    "combined_wordmark_and_icon": false
-  },
-  "motion_library": "motion/index.html",
-  "motion_kit": "VIABLE-Motion-and-V-Kit.zip",
-  "standalone_assets": "icons/"
+  }
 }
