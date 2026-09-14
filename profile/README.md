@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-white.png">
-  <img src="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-navy.png" alt="VIABLE" width="260">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-soft-white.svg">
+  <img src="https://raw.githubusercontent.com/VIABLE-hub/.github/main/profile/assets/logo-soft.svg" alt="VIABLE" width="260">
 </picture>
 
 # VIABLE
