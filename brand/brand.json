@@ -23,7 +23,7 @@
     "viable-social-en-soft1.png": "6b4bb51389f5ba6e5525c7fde235543936c9cc512362bdb2fa43e3d00c096eca",
     "viable-soft-logo.png": "6988415c75fddc803aa08f5f3fc987ee1dcbe33e829e4c9968b27d3c79924727",
     "viable-social-en-soft2.png": "6b4bb51389f5ba6e5525c7fde235543936c9cc512362bdb2fa43e3d00c096eca",
-    "README.md": "09a9a422873061424ecaf6b69faad95e2d18a2d31cb9444f043f4f509a1af0c3",
+    "README.md": "64b79db166db4cfc72cc6112e3a7ee9298d9c44cb8faab8f39f71d73b7ff40a8",
     "viable-soft-wordmark-white.png": "118bd3216511519d4b0ff56cd71eae0612d0f1dc60e96e94bdb2df23da2ade0f",
     "viable-social-de-soft1.svg": "5181142aa12dba0db118c8f38e974e111e8286681d0482b0d0ddc6279a129447",
     "viable-soft-favicon.png": "778890c9a6bac2b7a5d786d715b52a8ff5ff3127f84b9907cde45bd9db87f2a0",
@@ -38,5 +38,16 @@
     "viable-social-de-soft1.png": "016115e24f4f6623f73ba7cde1fa2473114986e6b0a87de4a182a7ef45948f0c",
     "viable-soft-wordmark-white.svg": "36ac86e6d1383809f64267a361b44e3cd2343f4758a858136630493d8322ce42"
   },
-  "layout": "VIABLE wordmark only; no additional V before the name"
+  "layout": "VIABLE wordmark only; V is a separate icon, never part of a combined logo",
+  "usage": {
+    "corporate_logo": "viable-soft-wordmark.svg",
+    "compact_icon": "viable-soft-symbol.svg",
+    "icon_contexts": [
+      "favicon",
+      "app icon",
+      "avatar",
+      "limited-space placement"
+    ],
+    "combined_wordmark_and_icon": false
+  }
 }
