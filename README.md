@@ -1,6 +1,6 @@
 # VIABLE developer community
 
-Public organization profile and shared contribution policies for VIABLE Solutions GmbH.
+Public organization profile and shared contribution policies for VIABLE.
 
 - [Organization profile](profile/README.md)
 - [Contribution guidelines](CONTRIBUTING.md)
