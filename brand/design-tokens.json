@@ -1,0 +1,37 @@
+{
+  "brand": "VIABLE",
+  "reference": {
+    "en": "https://viable-id.com",
+    "de": "https://viable-id.de",
+    "reviewed": "2026-09-15"
+  },
+  "colors": {
+    "logo": "#003153",
+    "text": "#003154",
+    "accent": "#007c96",
+    "muted": "#5a6b7a",
+    "surface": "#ffffff",
+    "haze": "#f4f6fa",
+    "border": "#dfe3e9"
+  },
+  "typography": {
+    "headings": "Space Grotesk",
+    "body": "IBM Plex Sans",
+    "logo": "unchanged outlined Soft wordmark"
+  },
+  "logoRules": {
+    "wordmarkOnly": true,
+    "combineVAndWordmark": false,
+    "separateVContexts": [
+      "favicon",
+      "app icon",
+      "avatar",
+      "compact icon"
+    ]
+  },
+  "platforms": {
+    "outline": "native accessible UI; brand assets and documents",
+    "github": "native accessible UI; exact wordmark and canonical guide",
+    "drive": "editable shared masters; customer copies separate"
+  }
+}
